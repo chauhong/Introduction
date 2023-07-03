@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chauhong
+- 👋 Hi, my name is @chauhong
 - 👀 I’m interested in Finance, Marketing, Data and everything Economics Analysis.
 - 🌱 I’m currently learning more Python, SQL and more stats. I just graduated with a Bachelor Degree in Econometrics and Quantitative Economics.
-- 💞️ I’m looking to sharpen my knowledges.
+- 💞️ I’m looking to sharpen my knowledges and learn more from people at Github. Thank you so much!
 
 
 <!---
